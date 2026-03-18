@@ -1,0 +1,5 @@
+[
+  { "user_id": 1, "workout_type": "running", "duration_minutes": 45, "calories": 450, "workout_date": "2026-01-10" },
+  { "user_id": 2, "workout_type": "cycling", "duration_minutes": 60, "calories": 620, "workout_date": "2026-01-11" },
+  { "user_id": 3, "workout_type": "yoga", "duration_minutes": 35, "calories": 180, "workout_date": "2026-01-12" }
+]
