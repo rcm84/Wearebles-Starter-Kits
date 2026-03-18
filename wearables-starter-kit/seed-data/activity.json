@@ -1,0 +1,5 @@
+[
+  { "user_id": 1, "steps": 12450, "distance_km": 9.2, "active_minutes": 82, "activity_date": "2026-01-10" },
+  { "user_id": 2, "steps": 10300, "distance_km": 7.8, "active_minutes": 76, "activity_date": "2026-01-11" },
+  { "user_id": 3, "steps": 9800, "distance_km": 7.1, "active_minutes": 70, "activity_date": "2026-01-12" }
+]

@@ -1,0 +1,5 @@
+[
+  { "id": 1, "username": "demo_garmin_user", "device_provider": "garmin" },
+  { "id": 2, "username": "demo_polar_user", "device_provider": "polar" },
+  { "id": 3, "username": "demo_apple_user", "device_provider": "apple" }
+]
